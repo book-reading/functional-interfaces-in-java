@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PlayfulPets",
+            "request": "launch",
+            "mainClass": "chapter1.PlayfulPets",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestTwoIntsProcessor",
+            "request": "launch",
+            "mainClass": "chapter1.TestTwoIntsProcessor",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReceiptPrinter2Test",
+            "request": "launch",
+            "mainClass": "chapter1.ReceiptPrinter2Test",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestTwoArgsProcessor",
+            "request": "launch",
+            "mainClass": "chapter1.TestTwoArgsProcessor",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringProcessor2Test",
+            "request": "launch",
+            "mainClass": "chapter1.StringProcessor2Test",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReceiptPrinterTest",
+            "request": "launch",
+            "mainClass": "chapter1.ReceiptPrinterTest",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestI4",
             "request": "launch",
             "mainClass": "chapter1.TestI4",

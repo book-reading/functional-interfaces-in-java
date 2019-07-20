@@ -22,4 +22,9 @@ public class Receipt {
         discount = r.discount;
         tax = r.tax;
     }
+
+    @Override
+    public String toString() {
+        return "Receipt [discount=" + discount + ", item=" + item + ", price=" + price + ", tax=" + tax + "]";
+    }
 }
