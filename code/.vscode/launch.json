@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestI4",
+            "request": "launch",
+            "mainClass": "chapter1.TestI4",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestStringProcessor",
+            "request": "launch",
+            "mainClass": "chapter1.TestStringProcessor",
+            "projectName": "code"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestI3",
             "request": "launch",
             "mainClass": "chapter1.TestI3",
